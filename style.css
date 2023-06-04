@@ -1,0 +1,14 @@
+body {
+  background-color: antiquewhite;
+}
+
+.heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+button {
+  margin-bottom: 20px;
+}
